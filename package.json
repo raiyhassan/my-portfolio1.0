@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fontsource/inter": "^5.2.6",
+    "@fontsource/source-sans-pro": "^5.2.5",
+    "framer-motion": "^12.23.1"
+  }
+}
